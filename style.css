@@ -130,7 +130,7 @@ li {
     padding-bottom: 590px;
     display: flex;
     justify-content: center;
-    background-image: url('/general-images/general-first-section/background.png');
+    background-image: url('./general-images/general-first-section/background.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -320,7 +320,7 @@ li {
 .block-one {
     display: flex;
     justify-content: end;
-    background-image: url('/general-images/operation-background.svg');
+    background-image: url('./general-images/operation-background.svg');
     border-radius: 9px;
     height: 500px;
     width: 1200px;
